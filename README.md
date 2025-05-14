@@ -3,12 +3,11 @@
 #### 🚀 Passionate about building scalable web applications, solving complex problems, and constantly learning new technologies!
 
 ### 🛠 Tech Stack & Skills
-<br/>
-🔹 Frontend: React.js, Next.js, Tailwind CSS
-🔹 Backend: Node.js, Express.js
-🔹 Database: MongoDB, Firebase
-🔹 Tools & DevOps: Docker, GitHub Actions, CI/CD Pipelines
-🔹 Other: TypeScript, Redux, Context API, WebSockets
+    🔹 Frontend: React.js, Next.js, Tailwind CSS
+    🔹 Backend: Node.js, Express.js
+    🔹 Database: MongoDB, Firebase
+    🔹 Tools & DevOps: Docker, GitHub Actions, CI/CD Pipelines
+    🔹 Other: TypeScript, Redux, Context API, WebSockets
 
 
 🌟 What I Do
